@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 个人简介
+### 姓名：刘博泽
+### 性别：男
+### 出生日期：2001 10 23
+### 籍贯：河北省
+### 专业：市场营销
+### 政治面貌：共青团员
+### 电子邮件：3442064847@qq.com
+# 教育背景
+大学阶段
+# 主修课程
+市场营销学、微积分（上）&（下）、线性代数、概率论与数理统计、马克思主义政治经济学、微观经济学、宏观经济学、商务英语翻译、逻辑学。应用写作、法学通论、金融学、初级会计学等
+# 技能总结
+## 外语水平：
+主修英语且通过四级，有进行选修德语与商务英语课程
+## 计算机水平：
+主修了office办公软件学习，对于word、ppt、excel等基础软件有一定程度的掌握；平日有在自学c语言程序设计并参与了c语言的国家计算机二级考试
+# 兴趣爱好
+我忠于热爱游戏、读书、音乐、电影，其中游戏与读书在我的爱好中平分秋色；而电影与音乐更胜一筹。游戏方面我对于任天堂的电子游戏情有独钟，但平时会玩一众网游类的土游戏；读书事实上占比不大，我平均每年的读书量不会超过五本，以中长篇小说为主。电影我独爱丹尼斯·维伦纽瓦的作品以及亚利桑德罗·冈萨雷斯·伊纳里图的作品，《通天塔》《荒野猎人》《银翼杀手2049》都是我的最爱。音乐方面我比较习惯于去听不带歌词的纯音乐，这类音乐听来较为放松有时也会带来欢愉之感。我喜欢约翰·凯奇、坂本龙一等极简主义偶尔带些实验性质的作曲家，品鉴此类曲子在生活中可以为我带来不少的趣味。
+# 自我评价
+我是一名普普通通的大二学生，我每日都在努力地从学业任务与日常生活中寻找平衡点。对于学校安排的课程与考试安排我做到逃课、积极筹备；对于课外的证书考核我量力而行、谨慎选择。对于校内的社团与素拓文娱活动，我辗转腾挪、做出取舍；对于同学间组成的社交网络，我主动应和、配合工作。这样的生活让我在平日里过得充实、张弛有度而不至于疲倦，从而造就了我的生活态度：不向明天说摆烂，但理应对自己好一些。学会自爱才可以爱上生活与生活中的人。
 
-You can use the [editor on GitHub](https://github.com/BTTB1227/BTTB1227.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BTTB1227/BTTB1227.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
